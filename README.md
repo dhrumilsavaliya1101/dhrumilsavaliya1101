@@ -1,24 +1,52 @@
 # 💫 About Me:
-🔭 I'm currently working on<br><br>Machine Learning & AI real-world projects (Computer Vision, Predictive Modeling, Applied AI)<br><br>Building impactful developer communities through Google Developer Groups (GDG) – Long Island University<br><br>Strengthening my portfolio for AI/ML Engineer & Data Science roles<br><br>End-to-end projects from research → deployment → documentation<br><br>🤝 I'm looking to collaborate on<br><br>Open-source AI / ML / Deep Learning projects<br><br>Computer Vision & real-world automation systems<br><br>Research-based or production-level intelligent applications<br><br>Community, tech events, and developer ecosystem initiatives<br><br>🆘 I'm looking for help with<br><br>Scaling ML models to production (MLOps, deployment, optimization)<br><br>Advanced system design for AI applications<br><br>Industry-level best practices in AI engineering<br><br>Full-time opportunities / research collaborations in AI & Data Science<br><br>🌱 I'm currently learning<br><br>Advanced Deep Learning & Neural Networks<br><br>MLOps, Model Deployment, and AI System Design<br><br>Cloud for AI (Google Cloud / AWS for ML workloads)<br><br>Real-world applied AI and scalable architectures<br><br>💬 Ask me about<br><br>Machine Learning, AI, and Computer Vision<br><br>Building AI projects from scratch<br><br>Developer communities & leading tech organizations (GDG, LIU Sangam)<br><br>Career growth in AI / MS in Artificial Intelligence journey<br><br>Hackathons, tech events, and project building<br><br>⚡ Fun fact<br><br>I lead one of the largest student tech & cultural communities at my university, manage large-scale events, and still find time to build AI projects ☕🤖
-
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dhrumil_savaliya_1101) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dhrumil-savaliya1101) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dhrumilpraffulkumar.savaliya@my.liu.edu) 
-
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Julia](https://img.shields.io/badge/-Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=dhrumilsavaliya1101&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=dhrumilsavaliya1101&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=dhrumilsavaliya1101&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=dhrumilsavaliya1101&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+🔭 **Currently:** Building real-world AI/ML systems & production-ready intelligent applications.  
+🤝 **Collaborating on:** Open-source AI, Computer Vision & impactful tech projects.  
+🆘 **Seeking help in:** MLOps, scaling models, and advanced AI system design.  
+🌱 **Learning:** Advanced Deep Learning, Cloud for AI & scalable ML architecture.  
+💬 **Ask me about:** AI/ML, Computer Vision, tech leadership & building real-world projects.  
+⚡ **Fun fact:** I lead large tech communities, run major events & still ship AI projects consistently.  
 
 ---
-[![](https://visitcount.itsvg.in/api?id=dhrumilsavaliya1101&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dhrumil_savaliya_1101)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dhrumil-savaliya1101)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dhrumilpraffulkumar.savaliya@my.liu.edu)
+
+---
+
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-E34F26?style=for-the-badge&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+
+---
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=dhrumilsavaliya1101&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+![](https://nirzak-streak-stats.vercel.app/?user=dhrumilsavaliya1101&theme=tokyonight&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=dhrumilsavaliya1101&theme=tokyonight&hide_border=true&layout=compact)
+
+---
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=dhrumilsavaliya1101&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6)
+
+---
+
+## ⚡ Philosophy
+**Build • Learn • Ship • Repeat**  
+Turning ideas into intelligent systems that create real-world impact.
+
+---
+
+[![](https://visitcount.itsvg.in/api?id=dhrumilsavaliya1101&icon=5&color=6)](https://visitcount.itsvg.in)
