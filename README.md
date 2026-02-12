@@ -1,52 +1,83 @@
-# 💫 About Me:
-🔭 **Currently:** Building real-world AI/ML systems & production-ready intelligent applications.  
-🤝 **Collaborating on:** Open-source AI, Computer Vision & impactful tech projects.  
-🆘 **Seeking help in:** MLOps, scaling models, and advanced AI system design.  
-🌱 **Learning:** Advanced Deep Learning, Cloud for AI & scalable ML architecture.  
-💬 **Ask me about:** AI/ML, Computer Vision, tech leadership & building real-world projects.  
-⚡ **Fun fact:** I lead large tech communities, run major events & still ship AI projects consistently.  
+<!-- ===== HEADER ===== -->
+<h1 align="center">Hi 👋, I'm Dhrumil Savaliya</h1>
+<h3 align="center">AI Engineer • MS in Artificial Intelligence • Building Scalable Intelligent Systems</h3>
+
+<p align="center">
+  <a href="https://linkedin.com/in/dhrumil-savaliya1101"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:dhrumilpraffulkumar.savaliya@my.liu.edu"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <img src="https://komarev.com/ghpvc/?username=dhrumilsavaliya1101&style=for-the-badge&color=blue"/>
+</p>
 
 ---
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dhrumil_savaliya_1101)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dhrumil-savaliya1101)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dhrumilpraffulkumar.savaliya@my.liu.edu)
+## 🧠 About Me
+- 🎓 MS in Artificial Intelligence — Long Island University  
+- 🤖 AI Engineer focused on **Machine Learning, Deep Learning & Computer Vision**  
+- 🚀 Building **real-world, production-ready AI systems** (not just notebooks)  
+- 🌍 Google Developer Groups (GDG) — Community Builder & Tech Leader  
+- 🎯 Targeting **AI Engineer / ML Engineer / Data Scientist roles**
 
 ---
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-E34F26?style=for-the-badge&logo=pytorch&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+## ⚡ Core Strength
+- End-to-end ML pipeline → Data → Model → Deployment  
+- Computer Vision & Applied AI systems  
+- Scalable AI architecture & MLOps (Learning → Implementing)  
+- Research mindset + Engineering execution  
 
 ---
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=dhrumilsavaliya1101&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
-![](https://nirzak-streak-stats.vercel.app/?user=dhrumilsavaliya1101&theme=tokyonight&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=dhrumilsavaliya1101&theme=tokyonight&hide_border=true&layout=compact)
+## 🛠 Tech Stack
+
+**AI / ML**
+Python • Scikit-Learn • TensorFlow • PyTorch • OpenCV • NLP • Deep Learning
+
+
+**Data & Analytics**
+Pandas • NumPy • Matplotlib • Data Processing • Feature Engineering
+
+
+**Tools & Cloud**
+Git • GitHub • Jupyter • Google Colab • Google Cloud • MLOps (Learning)
+
 
 ---
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=dhrumilsavaliya1101&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6)
+## 🚀 Featured Focus
+- Production-grade AI projects  
+- Computer Vision & Automation  
+- Scalable ML Systems & Deployment  
+- Open-source AI contribution  
+
+---
+
+## 📊 GitHub Performance
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dhrumilsavaliya1101&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=dhrumilsavaliya1101&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhrumilsavaliya1101&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🏆 Achievements
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=dhrumilsavaliya1101&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6"/>
+</p>
+
+---
+
+## 🌍 Leadership & Impact
+- President — LIU Sangam (Large student community leadership)  
+- Building developer ecosystem & tech events through GDG  
+- Passionate about innovation, AI impact & scalable solutions  
 
 ---
 
 ## ⚡ Philosophy
-**Build • Learn • Ship • Repeat**  
-Turning ideas into intelligent systems that create real-world impact.
+**Build → Learn → Deploy → Scale → Repeat**
 
----
-
-[![](https://visitcount.itsvg.in/api?id=dhrumilsavaliya1101&icon=5&color=6)](https://visitcount.itsvg.in)
+Creating intelligent systems that solve real-world problems.
